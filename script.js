@@ -258,4 +258,6 @@ class App {
   }
 }
 
+//Creating object for the app to run
+
 const app = new App();
